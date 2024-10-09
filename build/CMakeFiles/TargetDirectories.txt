@@ -1,3 +1,0 @@
-/Users/jijiayu/Documents/CG/Games 101/labs/build/CMakeFiles/Transformation.dir
-/Users/jijiayu/Documents/CG/Games 101/labs/build/CMakeFiles/edit_cache.dir
-/Users/jijiayu/Documents/CG/Games 101/labs/build/CMakeFiles/rebuild_cache.dir

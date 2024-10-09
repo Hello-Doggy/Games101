@@ -1,0 +1,3 @@
+/Users/jijiayu/Documents/CG/Games 101/labs/lab1/build/CMakeFiles/Rasterizer.dir
+/Users/jijiayu/Documents/CG/Games 101/labs/lab1/build/CMakeFiles/edit_cache.dir
+/Users/jijiayu/Documents/CG/Games 101/labs/lab1/build/CMakeFiles/rebuild_cache.dir

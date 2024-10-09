@@ -56,5 +56,17 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "cmake.sourceDirectory": "/Users/jijiayu/Documents/CG/Games 101/labs/lab0"
+  "cmake.sourceDirectory": "/Users/jijiayu/Documents/CG/Games 101/labs/lab0",
+  "files.associations": {
+    "core": "cpp",
+    "any": "cpp",
+    "map": "cpp",
+    "optional": "cpp",
+    "queue": "cpp",
+    "set": "cpp",
+    "stack": "cpp",
+    "unordered_map": "cpp",
+    "variant": "cpp",
+    "eigen": "cpp"
+  }
 }

@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/jijiayu/Documents/CG/Games 101/labs/build",
-  "command": "/usr/bin/clang++ -I\"/Users/jijiayu/Documents/CG/Games 101/labs/lab0/EIGEN3_INCLUDE_DIR\" -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -o CMakeFiles/Transformation.dir/main.cpp.o -c \"/Users/jijiayu/Documents/CG/Games 101/labs/lab0/main.cpp\"",
-  "file": "/Users/jijiayu/Documents/CG/Games 101/labs/lab0/main.cpp",
-  "output": "CMakeFiles/Transformation.dir/main.cpp.o"
-}
-]
