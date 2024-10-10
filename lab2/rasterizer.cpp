@@ -51,7 +51,6 @@ static bool insideTriangle(int x, int y, const Vector3f* _v)
 {   
     // TODO : Implement this function to check if the point (x, y) is inside the triangle represented by _v[0], _v[1], _v[2]
     auto[alpha, beta, gamma] = computeBarycentric2D(x, y, _v);
-
     if (alpha < 0 || beta < 0 || gamma < 0)
       return false;
     else
